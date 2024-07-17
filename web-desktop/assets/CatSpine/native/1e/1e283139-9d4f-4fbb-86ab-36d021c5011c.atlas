@@ -1,0 +1,132 @@
+
+maomi03.png
+size: 207,961
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_erduo01_z
+  rotate: false
+  xy: 120, 212
+  size: 66, 58
+  orig: 67, 60
+  offset: 0, 2
+  index: -1
+b_erduo02_z
+  rotate: false
+  xy: 132, 327
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+b_shenti_z
+  rotate: false
+  xy: 1, 159
+  size: 118, 116
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+b_shenti_zuoxia_z
+  rotate: false
+  xy: 1, 57
+  size: 117, 101
+  orig: 117, 114
+  offset: 0, 12
+  index: -1
+b_tou_z
+  rotate: false
+  xy: 1, 388
+  size: 200, 185
+  orig: 202, 187
+  offset: 1, 1
+  index: -1
+c_tou_z
+  rotate: false
+  xy: 1, 767
+  size: 199, 193
+  orig: 203, 197
+  offset: 3, 2
+  index: -1
+saihong01_z
+  rotate: false
+  xy: 187, 241
+  size: 18, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+saihong02_z
+  rotate: false
+  xy: 187, 256
+  size: 19, 14
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+shenti_z
+  rotate: false
+  xy: 1, 276
+  size: 130, 111
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+tou_z
+  rotate: false
+  xy: 1, 574
+  size: 200, 192
+  orig: 201, 192
+  offset: 0, 0
+  index: -1
+weiba_z
+  rotate: false
+  xy: 1, 1
+  size: 109, 55
+  orig: 110, 55
+  offset: 1, 0
+  index: -1
+yanjing01
+  rotate: false
+  xy: 119, 120
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+yanjing02
+  rotate: false
+  xy: 119, 120
+  size: 34, 36
+  orig: 36, 38
+  offset: 1, 1
+  index: -1
+yanjing01a
+  rotate: false
+  xy: 154, 117
+  size: 34, 17
+  orig: 36, 38
+  offset: 1, 7
+  index: -1
+yanjing02a
+  rotate: false
+  xy: 119, 104
+  size: 34, 15
+  orig: 36, 38
+  offset: 1, 7
+  index: -1
+z_erduo01_z
+  rotate: false
+  xy: 120, 157
+  size: 69, 54
+  orig: 71, 56
+  offset: 2, 1
+  index: -1
+z_erduo02_z
+  rotate: false
+  xy: 132, 271
+  size: 71, 55
+  orig: 71, 56
+  offset: 0, 1
+  index: -1
+zuiba
+  rotate: false
+  xy: 154, 135
+  size: 37, 21
+  orig: 39, 23
+  offset: 1, 1
+  index: -1
